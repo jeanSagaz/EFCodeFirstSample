@@ -1,0 +1,13 @@
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.exe.config
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.exe
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.pdb
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.dll
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.xml
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.csprojResolveAssemblyReference.cache
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.exe
+H:\codigos\VS\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.pdb
+H:\codigos\VS\Console\EFCodeFirstSample\EFCodeFirstSample\bin\Debug\EFCodeFirstSample.exe.config
+H:\codigos\VS\Console\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.exe
+H:\codigos\VS\Console\EFCodeFirstSample\EFCodeFirstSample\obj\Debug\EFCodeFirstSample.pdb
